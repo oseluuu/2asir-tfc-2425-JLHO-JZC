@@ -13,7 +13,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * [José Antonio Pérez Alías](https://github.com/joseantper)
 * [Sergio Sánchez Martín](https://github.com/SergioSanchezMartin)
 * [José David Quero Sánchez](https://github.com/josedavid-quero)
-
+* [Jesús Moreno Arjonilla](https://github.com/josedavid-quero)
 ## Índice a los proyectos de cada alumno
 
 * **GRUPO 01: Título** - JavAlumno1 y Alumno2
