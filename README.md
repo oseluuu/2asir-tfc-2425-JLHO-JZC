@@ -16,12 +16,6 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * [Jesús Moreno Arjonilla](https://github.com/JMoreno97)
 ## Índice a los proyectos de cada alumno
 
-* **GRUPO xx: Título** - Alumno1 y Alumno2
-    - [Anteproyecto](https://quiet-licorice-3d4.notion.site/Procesamiento-de-datos-IoT-escalable-8c371549b4c4459ba14a33738e7c1103?pvs=4)
-    - [Repositorio del proyecto](https://github.com/amandabz/Procesamiento-de-datos-IoT-escalable.git)
-    - [Checkpoint](https://www.youtube.com/watch?v=rilZp60VhF0)
-    - [Video final](https://www.youtube.com/watch?v=Pv0jWuqGow4)
- 
 * **GRUPO 01: Plataforma de e-learning con evaluaciones online** - Karol Serrano y Natalia Espinosa
     - [Anteproyecto](https://)
     - [Repositorio del proyecto](https://)
@@ -40,7 +34,7 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [Video final](https://)
    
-    * **GRUPO 04: Despliegue de una red empresarial mediante Proxmox** - Arturo Simón y Samuel Ruiz
+* **GRUPO 04: Despliegue de una red empresarial mediante Proxmox** - Arturo Simón y Samuel Ruiz
     - [Anteproyecto](https://)
     - [Repositorio del proyecto](https://)
     - [Checkpoint](https://)
