@@ -22,19 +22,19 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://www.youtube.com/watch?v=rilZp60VhF0)
     - [Video final](https://www.youtube.com/watch?v=Pv0jWuqGow4)
  
-  * **GRUPO 01: Plataforma de e-learning con evaluaciones online** - Karol Serrano y Natalia Espinosa
+* **GRUPO 01: Plataforma de e-learning con evaluaciones online** - Karol Serrano y Natalia Espinosa
     - [Anteproyecto](https://)
     - [Repositorio del proyecto](https://)
     - [Checkpoint](https://)
     - [Video final](https://)
    
-  * **GRUPO 02: Infraestructura de Red con Servicios Integrados (IRSI)** - Daniel García y Nazaret Postigo
+* **GRUPO 02: Infraestructura de Red con Servicios Integrados (IRSI)** - Daniel García y Nazaret Postigo
     - [Anteproyecto](https://)
     - [Repositorio del proyecto](https://)
     - [Checkpoint](https://)
     - [Video final](https://)
    
-  * **GRUPO 03: Sistema de Gestión de Flotas para Empresas de Transporte Local** - Jorge Zambrana y José Luis Hidalgo
+* **GRUPO 03: Sistema de Gestión de Flotas para Empresas de Transporte Local** - Jorge Zambrana y José Luis Hidalgo
     - [Anteproyecto](https://)
     - [Repositorio del proyecto](https://)
     - [Checkpoint](https://)
@@ -46,31 +46,31 @@ La siguiente lista cuenta con los usuarios de GitHub del profesorado:
     - [Checkpoint](https://)
     - [Video final](https://)
    
-  * **GRUPO 05: Sistema de Gestión de Reservas para Espacios Turísticos** - Fernando González y Moisés Alameda
+* **GRUPO 05: Sistema de Gestión de Reservas para Espacios Turísticos** - Fernando González y Moisés Alameda
     - [Anteproyecto](https://)
     - [Repositorio del proyecto](https://)
     - [Checkpoint](https://)
     - [Video final](https://)
    
-  * **GRUPO 06: Sistema de seguimiento de proyectos de una empresa** - Jorge Robles y José Antonio Salinas
+* **GRUPO 06: Sistema de seguimiento de proyectos de una empresa** - Jorge Robles y José Antonio Salinas
     - [Anteproyecto](https://)
     - [Repositorio del proyecto](https://)
     - [Checkpoint](https://)
     - [Video final](https://)
    
-  * **GRUPO 07: Plataforma web para consultas de precios de supermercados nacionales** - Alejandro Moreno y Tania Solera
+* **GRUPO 07: Plataforma web para consultas de precios de supermercados nacionales** - Alejandro Moreno y Tania Solera
     - [Anteproyecto](https://)
     - [Repositorio del proyecto](https://)
     - [Checkpoint](https://)
     - [Video final](https://)
 
-  * **GRUPO 08: SIN TÍTULO** - Alejandro González y Diego Juanes
+* **GRUPO 08: SIN TÍTULO** - Alejandro González y Diego Juanes
     - [Anteproyecto](https://)
     - [Repositorio del proyecto](https://)
     - [Checkpoint](https://)
     - [Video final](https://)
    
-  * **GRUPO 09: Sistema de gestión de empleados para gestionar turnos y ausencias** - Manuel Fernández y Francisco Miguel Granados
+* **GRUPO 09: Sistema de gestión de empleados para gestionar turnos y ausencias** - Manuel Fernández y Francisco Miguel Granados
     - [Anteproyecto](https://)
     - [Repositorio del proyecto](https://)
     - [Checkpoint](https://)
