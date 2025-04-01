@@ -12,6 +12,7 @@ Tanto los criterios generales como los criterios particulares por cada módulo s
 La siguiente lista cuenta con los usuarios de GitHub del profesorado:
 * [José Antonio Pérez Alías](https://github.com/joseantper)
 * [Sergio Sánchez Martín](https://github.com/SergioSanchezMartin)
+* [Florindo López Delgado](https://github.com/florindofp)
 * [José David Quero Sánchez](https://github.com/josedavid-quero)
 * [Jesús Moreno Arjonilla](https://github.com/JMoreno97)
 ## Índice a los proyectos de cada alumno
